@@ -1,0 +1,32 @@
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\AxInterop.MSHTML.dll
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Ezed Web Project.vbproj.ResolveComReference.cache
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.abouttt.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.addmodules.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.addreferences.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.addservicerefer.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.buildddd.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.colorpall.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.file.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.Form2.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.optionsandsettings.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.SplashScreen1.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.newteam.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.AAAFORM.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.Resources.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.startup.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet_Studio.Tool_Add.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Ezed Web Project.vbproj.GenerateResource.Cache
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet Studio.exe
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet Studio.xml
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet Studio.pdb
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.exe.config
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.exe.manifest
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.application
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.exe
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.pdb
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Frabet Studio.xml
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\FastColoredTextBox.dll
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\Ionic.Zip.dll
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Release\AxInterop.MSHTML.dll
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet Studio.exe.manifest
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Release\Frabet Studio.application

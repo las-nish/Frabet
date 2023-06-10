@@ -1,0 +1,112 @@
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.GenerateResource.Cache
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\FastColoredTextBox.dll
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Ezed Web Project.vbprojResolveAssemblyReference.cache
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.exe.config
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.exe
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.pdb
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.xml
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.addmodules.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.addreferences.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.addservicerefer.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.file.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.optionsandsettings.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.newteam.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.AAAFORM.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.Resources.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.startup.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet Studio.exe
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet Studio.xml
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet Studio.pdb
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.Tool_Add.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.SplashScreen1.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.colorpall.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.buildddd.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.abouttt.resources
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.exe.manifest
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Frabet Studio.application
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet Studio.exe.manifest
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet Studio.application
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\AxInterop.MSHTML.dll
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.ResolveComReference.cache
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\AxInterop.MSHTML.dll
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\bin\Debug\Ionic.Zip.dll
+G:\Lasan Nishshanka\Visual Basic\Projects\Ezed Web Project\Ezed Web Project\obj\Debug\Frabet_Studio.Form2.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.exe.config
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\AxInterop.MSHTML.dll
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.ResolveComReference.cache
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet Studio.exe
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet Studio.xml
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet Studio.pdb
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.exe.manifest
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.application
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.exe
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.pdb
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Frabet Studio.xml
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\FastColoredTextBox.dll
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\Ionic.Zip.dll
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\bin\Debug\AxInterop.MSHTML.dll
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Ezed Web Project.vbprojResolveAssemblyReference.cache
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.abouttt.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.addmodules.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.addreferences.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.addservicerefer.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.buildddd.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.colorpall.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.file.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.Form2.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.optionsandsettings.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.SplashScreen1.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.newteam.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.AAAFORM.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.Resources.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.startup.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet_Studio.Tool_Add.resources
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.GenerateResource.Cache
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet Studio.exe.manifest
+G:\Lasan Nishshanka\My Projects ( Softwares )\Projects\Frabet Studio - web Development\Ezed Web Project\obj\Debug\Frabet Studio.application
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Ezed Web Project.vbprojAssemblyReference.cache
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\AxInterop.MSHTML.dll
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.ResolveComReference.cache
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.abouttt.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.addmodules.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.addreferences.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.addservicerefer.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.buildddd.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.colorpall.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.file.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.Form2.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.optionsandsettings.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.SplashScreen1.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.newteam.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.AAAFORM.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.Resources.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.startup.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet_Studio.Tool_Add.resources
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.GenerateResource.cache
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.CoreCompileInputs.cache
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet Studio.exe
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet Studio.xml
+C:\Users\Lasan Nishshanka\Downloads\Compressed\frbt_studio_project\Ezed Web Project\obj\Debug\Frabet Studio.pdb
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\bin\Debug\Frabet Studio.exe.config
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\AxInterop.MSHTML.dll
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.ResolveComReference.cache
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet Studio.exe
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet Studio.xml
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet Studio.pdb
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Ezed Web Project.vbprojResolveAssemblyReference.cache
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.abouttt.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.addmodules.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.addreferences.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.addservicerefer.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.buildddd.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.colorpall.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.file.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.Form2.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.optionsandsettings.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.SplashScreen1.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.newteam.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.AAAFORM.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.Resources.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.startup.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Frabet_Studio.Tool_Add.resources
+G:\Company Products\Open Source\Frabet Studio\Ezed Web Project\obj\Debug\Ezed Web Project.vbproj.GenerateResource.Cache

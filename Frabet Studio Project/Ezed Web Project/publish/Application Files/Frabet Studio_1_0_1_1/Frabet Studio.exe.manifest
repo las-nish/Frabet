@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Frabet Studio.exe" version="1.0.1.1" publicKeyToken="15973e248838bac7" language="en" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Untitled-1.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Frabet Studio" version="1.0.1.1" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Frabet Studio.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.mshtml" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.MSHTML.dll" size="10752">
+      <assemblyIdentity name="AxInterop.MSHTML" version="7.0.3300.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YLn1YmJzZZ/Qcm0Vu5I7L7mA3gHi6T1HwFPn0AxFCyk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FastColoredTextBox.dll" size="148992">
+      <assemblyIdentity name="FastColoredTextBox" version="2.6.1.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cMSJxmikvkXvGW3lQaCsuTEpXAtCC2VsNv1mzlX+h/I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Frabet Studio.exe" size="10512896">
+      <assemblyIdentity name="Frabet Studio" version="1.0.1.1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>xdDAI20+DKhbZpGFf0btBBr3qSQELzZSmHPJZpBfFtY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ionic.Zip.dll" size="445440">
+      <assemblyIdentity name="Ionic.Zip" version="1.9.1.5" publicKeyToken="EDBE51AD942A3F5C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>XARJuKm2XzbLambBrJN5+PYqdd/M/aZ/6VlWMXezxbA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2.ico" size="321809">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3vObAppIkx4B3xKybZ0tOELkGdZxyA3T0mVOtB8gGFc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="FastColoredTextBox.dll" size="148992">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cMSJxmikvkXvGW3lQaCsuTEpXAtCC2VsNv1mzlX+h/I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Frabet Studio.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h0UeIdteCM29dGVw07LmHp593fPbh0IN11GyN3f2uRA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Interop.SpeechLib.dll" size="163840">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KhqXjNyFagoNAUMiHz9/Bn5hNn3liNw7fevKmCmeoro=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Ionic.Zip.dll" size="445440">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XARJuKm2XzbLambBrJN5+PYqdd/M/aZ/6VlWMXezxbA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="llggoo.ico" size="104405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DojTJ0kUipXSahpDa+Xhzwn+fIK9sdT7BPRUjOmPR5M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mn.ico" size="23558">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mXsBWrm3dzZuoLtUztBNkWvSLKqqJMRn9FWbNvhmH7g=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Untitled-1.ico" size="38780">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GM276JfIX7CRVULk/6Ug80xmIsuvf0J6Er9LnlithQg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Surface-PC\Windows" issuerKeyHash="652d42b396f716fe465ebf431c169fee8fc29138" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YKZUIDyJ4gktlMcJrlpyiHPbHAH76VTlJxZmiagsYnE=</DigestValue></Reference></SignedInfo><SignatureValue>YyF9nu+nKTZ+6VPXx4/vXJDpU8TLCJhODPeWk40KxYwRqhUfwF2WBqSdz+fQBp9hdzfr7Sr7rv/1mG0c6yL0mpWb/5RD6omWjFsdFQLWXzRY0jMUrkA3kjdVx8iw+4mmIJ1B3Q6XaNPspDsdc2WnWJpfxaQN9oJ2YpghNNzICNg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>r2NmTQNDQ5VMcFn7iEI3jWWiJ8jgrF+L2KTux15gtsH/lkuWbK2A5VSzHc+ktZT8RXiNMplKjoh4e2jN2KXWIrPdX99LDdT+axlrqpe289w3wegRNyKrpBwAaVyr6RJ6nO2gAuMu8faj8anrjxbAnR8BZV1o/FLbf2OriF5myK0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="71622ca889661627e554e9fb011cdb7388725aae09c7942d09e2893c2054a660" Description="" Url=""><as:assemblyIdentity name="Frabet Studio.exe" version="1.0.1.1" publicKeyToken="15973e248838bac7" language="en" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Surface-PC\Windows</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>BqYzVuapznniiFB0xsYIqQW9gpRIN+6dufDi1JGzleU=</DigestValue></Reference></SignedInfo><SignatureValue>Y0gKCIVGxD3NMXbvH0prV8zoKXzQtWtuNOMlQGhU209Z28IfD2rQP+yUqxomszFdCNAsm0EBPgjDT6xeyALCB3X2lyK5QvJ5vlAroo+ugkQZVRC/0Rm2uQX6zS5iNzi5IH0ri2I/xhFj/br4nsUw+GxE1c+q8kWLRcpEVcjqDDY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>r2NmTQNDQ5VMcFn7iEI3jWWiJ8jgrF+L2KTux15gtsH/lkuWbK2A5VSzHc+ktZT8RXiNMplKjoh4e2jN2KXWIrPdX99LDdT+axlrqpe289w3wegRNyKrpBwAaVyr6RJ6nO2gAuMu8faj8anrjxbAnR8BZV1o/FLbf2OriF5myK0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQEgUOtjj346tL0nmVqRkGODANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAUwB1AHIAZgBhAGMAZQAtAFAAQwBcAFcAaQBuAGQAbwB3AHMwHhcNMTYwNTI0MTgyMDA1WhcNMTcwNTI1MDAyMDA1WjAvMS0wKwYDVQQDHiQAUwB1AHIAZgBhAGMAZQAtAFAAQwBcAFcAaQBuAGQAbwB3AHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK9jZk0DQ0OVTHBZ+4hCN41loifI4Kxfi9ik7sdeYLbB/5ZLlmytgOVUsx3PpLWU/EV4jTKZSo6IeHtozdil1iKz3V/fSw3U/msZa6qXtvPcN8HoETciq6QcAGlcq+kSepztoALjLvH2o/Gp648WwJ0fAWVdaPxS239jq4heZsitAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAGkxkE6/QxayyndL3Ta3xIuwSDNy8aLKqlOur+XVRyMhAAMP12Pie+1B45+hmdNQGC55eQh4Ic3OlJvYTawElHEI86kJA22zwD/Hr8fgHwg4q34DXNN6HX+fQ8FURZLMEnFKgdQh9J1pRmYtwUK7/2zMDfPzQskK9eoSuQaTPWLU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

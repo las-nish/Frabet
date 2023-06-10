@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Frabet Studio
+</name>
+</assembly>
+<members>
+<member name="T:Frabet_Studio.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Frabet_Studio.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Frabet_Studio.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Frabet_Studio.DrawHelpers">
+ <summary>
+ Elegant GDI Theme
+ Creator: Xertz (HF)
+ Version: 1.0
+ Control Count: 17
+ Date Created: 25/12/2013
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
